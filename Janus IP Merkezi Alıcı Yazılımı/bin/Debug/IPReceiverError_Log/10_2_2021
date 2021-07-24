@@ -1,0 +1,190 @@
+_Client Socket1:FalseOlay zamanı:10.02.2021 08:34:32
+_Client Socket2:TrueOlay zamanı:10.02.2021 08:34:32
+_Client Socket1:FalseOlay zamanı:10.02.2021 08:34:33
+_Client Socket2:TrueOlay zamanı:10.02.2021 08:34:33
+_Client Socket1:FalseOlay zamanı:10.02.2021 08:35:16
+_Client Socket2:TrueOlay zamanı:10.02.2021 08:35:16
+_Client Socket1:FalseOlay zamanı:10.02.2021 08:35:17
+_Client Socket2:TrueOlay zamanı:10.02.2021 08:35:17
+_Client Socket1:FalseOlay zamanı:10.02.2021 08:35:44
+_Client Socket2:TrueOlay zamanı:10.02.2021 08:35:44
+_Client Socket1:FalseOlay zamanı:10.02.2021 08:35:45
+_Client Socket2:TrueOlay zamanı:10.02.2021 08:35:45
+_Client Socket1:FalseOlay zamanı:10.02.2021 08:35:50
+_Client Socket2:TrueOlay zamanı:10.02.2021 08:35:50
+_Client Socket1:FalseOlay zamanı:10.02.2021 08:35:52
+_Client Socket2:TrueOlay zamanı:10.02.2021 08:35:52
+_Client Socket1:FalseOlay zamanı:10.02.2021 08:36:16
+_Client Socket2:TrueOlay zamanı:10.02.2021 08:36:16
+_Client Socket1:FalseOlay zamanı:10.02.2021 08:36:18
+_Client Socket2:TrueOlay zamanı:10.02.2021 08:36:18
+_Client Socket1:FalseOlay zamanı:10.02.2021 08:36:27
+_Client Socket2:TrueOlay zamanı:10.02.2021 08:36:27
+_Client Socket1:FalseOlay zamanı:10.02.2021 08:36:28
+_Client Socket2:TrueOlay zamanı:10.02.2021 08:36:28
+_Client Socket1:FalseOlay zamanı:10.02.2021 08:36:54
+_Client Socket2:TrueOlay zamanı:10.02.2021 08:36:54
+_Client Socket1:FalseOlay zamanı:10.02.2021 08:36:55
+_Client Socket2:TrueOlay zamanı:10.02.2021 08:36:55
+Atraq bağlanma Exception Hatası:Atraq BağlantıMesaj hatası:Değer null olamaz.
+Parametre adı: containerstackTrace Hatası:   konum: System.Windows.Forms.NotifyIcon..ctor(IContainer container)
+   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.Form1..ctor() C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\Form1.cs içinde: satır 88Olay zamanı:10.02.2021 12:57:53
+Atraq bağlanma Exception Hatası:Atraq BağlantıMesaj hatası:Değer null olamaz.
+Parametre adı: containerstackTrace Hatası:   konum: System.Windows.Forms.NotifyIcon..ctor(IContainer container)
+   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.Form1..ctor() C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\Form1.cs içinde: satır 88Olay zamanı:10.02.2021 12:57:53
+Atraq bağlanma Exception Hatası:Atraq BağlantıMesaj hatası:Değer null olamaz.
+Parametre adı: containerstackTrace Hatası:   konum: System.Windows.Forms.NotifyIcon..ctor(IContainer container)
+   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.Form1..ctor() C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\Form1.cs içinde: satır 88Olay zamanı:10.02.2021 12:58:28
+Atraq bağlanma Exception Hatası:Atraq BağlantıMesaj hatası:Değer null olamaz.
+Parametre adı: containerstackTrace Hatası:   konum: System.Windows.Forms.NotifyIcon..ctor(IContainer container)
+   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.Form1..ctor() C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\Form1.cs içinde: satır 88Olay zamanı:10.02.2021 12:58:28
+Atraq bağlanma Exception Hatası:Atraq BağlantıMesaj hatası:Değer null olamaz.
+Parametre adı: containerstackTrace Hatası:   konum: System.Windows.Forms.NotifyIcon..ctor(IContainer container)
+   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.Form1..ctor() C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\Form1.cs içinde: satır 88Olay zamanı:10.02.2021 13:01:01
+Atraq bağlanma Exception Hatası:Atraq BağlantıMesaj hatası:Değer null olamaz.
+Parametre adı: containerstackTrace Hatası:   konum: System.Windows.Forms.NotifyIcon..ctor(IContainer container)
+   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.Form1..ctor() C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\Form1.cs içinde: satır 88Olay zamanı:10.02.2021 13:01:01
+Atraq bağlanma Exception Hatası:Atraq BağlantıMesaj hatası:Değer null olamaz.
+Parametre adı: containerstackTrace Hatası:   konum: System.Windows.Forms.NotifyIcon..ctor(IContainer container)
+   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.Form1..ctor() C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\Form1.cs içinde: satır 88Olay zamanı:10.02.2021 13:02:13
+Atraq bağlanma Exception Hatası:Atraq BağlantıMesaj hatası:Değer null olamaz.
+Parametre adı: containerstackTrace Hatası:   konum: System.Windows.Forms.NotifyIcon..ctor(IContainer container)
+   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.Form1..ctor() C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\Form1.cs içinde: satır 88Olay zamanı:10.02.2021 13:02:13
+Atraq bağlanma Exception Hatası:Atraq BağlantıMesaj hatası:Değer null olamaz.
+Parametre adı: containerstackTrace Hatası:   konum: System.Windows.Forms.NotifyIcon..ctor(IContainer container)
+   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.Form1..ctor() C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\Form1.cs içinde: satır 88Olay zamanı:10.02.2021 13:02:43
+Atraq bağlanma Exception Hatası:Atraq BağlantıMesaj hatası:Değer null olamaz.
+Parametre adı: containerstackTrace Hatası:   konum: System.Windows.Forms.NotifyIcon..ctor(IContainer container)
+   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.Form1..ctor() C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\Form1.cs içinde: satır 88Olay zamanı:10.02.2021 13:02:43
+Atraq bağlanma Exception Hatası:Atraq BağlantıMesaj hatası:Değer null olamaz.
+Parametre adı: containerstackTrace Hatası:   konum: System.Windows.Forms.NotifyIcon..ctor(IContainer container)
+   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.Form1..ctor() C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\Form1.cs içinde: satır 88Olay zamanı:10.02.2021 13:03:56
+Atraq bağlanma Exception Hatası:Atraq BağlantıMesaj hatası:Değer null olamaz.
+Parametre adı: containerstackTrace Hatası:   konum: System.Windows.Forms.NotifyIcon..ctor(IContainer container)
+   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.Form1..ctor() C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\Form1.cs içinde: satır 88Olay zamanı:10.02.2021 13:03:56
+Atraq bağlanma Exception Hatası:Atraq BağlantıMesaj hatası:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.stackTrace Hatası:   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.Form1..ctor() C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\Form1.cs içinde: satır 88Olay zamanı:10.02.2021 13:09:43
+Atraq bağlanma Exception Hatası:Atraq BağlantıMesaj hatası:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.stackTrace Hatası:   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.Form1..ctor() C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\Form1.cs içinde: satır 88Olay zamanı:10.02.2021 13:09:43
+Atraq bağlanma Exception Hatası:Atraq BağlantıMesaj hatası:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.stackTrace Hatası:   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.Form1..ctor() C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\Form1.cs içinde: satır 88Olay zamanı:10.02.2021 13:10:30
+Atraq bağlanma Exception Hatası:Atraq BağlantıMesaj hatası:Nesne başvurusu bir nesnenin örneğine ayarlanmadı.stackTrace Hatası:   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.Form1..ctor() C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\Form1.cs içinde: satır 88Olay zamanı:10.02.2021 13:10:30
+Atraq bağlanma Exception Hatası:Atraq BağlantıMesaj hatası:'C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\bin\Debug\appicon.ico' dosyası bulunamadı.stackTrace Hatası:   konum: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   konum: System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   konum: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   konum: System.Drawing.Icon..ctor(String fileName, Int32 width, Int32 height)
+   konum: System.Drawing.Icon..ctor(String fileName)
+   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.Form1..ctor() C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\Form1.cs içinde: satır 119Olay zamanı:10.02.2021 13:40:48
+Atraq bağlanma Exception Hatası:Atraq BağlantıMesaj hatası:'C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\bin\Debug\appicon.ico' dosyası bulunamadı.stackTrace Hatası:   konum: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   konum: System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   konum: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   konum: System.Drawing.Icon..ctor(String fileName, Int32 width, Int32 height)
+   konum: System.Drawing.Icon..ctor(String fileName)
+   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.Form1..ctor() C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\Form1.cs içinde: satır 119Olay zamanı:10.02.2021 13:40:48
+Atraq bağlanma Exception Hatası:Atraq BağlantıMesaj hatası:'C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\bin\Debug\appicon.ico' dosyası bulunamadı.stackTrace Hatası:   konum: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   konum: System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   konum: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   konum: System.Drawing.Icon..ctor(String fileName, Int32 width, Int32 height)
+   konum: System.Drawing.Icon..ctor(String fileName)
+   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.Form1..ctor() C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\Form1.cs içinde: satır 119Olay zamanı:10.02.2021 13:41:15
+Atraq bağlanma Exception Hatası:Atraq BağlantıMesaj hatası:'C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\bin\Debug\appicon.ico' dosyası bulunamadı.stackTrace Hatası:   konum: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   konum: System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   konum: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   konum: System.Drawing.Icon..ctor(String fileName, Int32 width, Int32 height)
+   konum: System.Drawing.Icon..ctor(String fileName)
+   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.Form1..ctor() C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\Form1.cs içinde: satır 119Olay zamanı:10.02.2021 13:41:15
+Atraq bağlanma Exception Hatası:Atraq BağlantıMesaj hatası:'C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\bin\Debug\appicon.ico' dosyası bulunamadı.stackTrace Hatası:   konum: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   konum: System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   konum: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   konum: System.Drawing.Icon..ctor(String fileName, Int32 width, Int32 height)
+   konum: System.Drawing.Icon..ctor(String fileName)
+   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.Form1..ctor() C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\Form1.cs içinde: satır 119Olay zamanı:10.02.2021 13:41:36
+Atraq bağlanma Exception Hatası:Atraq BağlantıMesaj hatası:'C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\bin\Debug\appicon.ico' dosyası bulunamadı.stackTrace Hatası:   konum: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   konum: System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   konum: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   konum: System.Drawing.Icon..ctor(String fileName, Int32 width, Int32 height)
+   konum: System.Drawing.Icon..ctor(String fileName)
+   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.Form1..ctor() C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\Form1.cs içinde: satır 119Olay zamanı:10.02.2021 13:41:36
+Atraq bağlanma Exception Hatası:Atraq BağlantıMesaj hatası:'C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\bin\Debug\appicon.ico' dosyası bulunamadı.stackTrace Hatası:   konum: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   konum: System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   konum: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   konum: System.Drawing.Icon..ctor(String fileName, Int32 width, Int32 height)
+   konum: System.Drawing.Icon..ctor(String fileName)
+   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.Form1..ctor() C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\Form1.cs içinde: satır 119Olay zamanı:10.02.2021 13:42:55
+Atraq bağlanma Exception Hatası:Atraq BağlantıMesaj hatası:'C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\bin\Debug\appicon.ico' dosyası bulunamadı.stackTrace Hatası:   konum: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   konum: System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   konum: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   konum: System.Drawing.Icon..ctor(String fileName, Int32 width, Int32 height)
+   konum: System.Drawing.Icon..ctor(String fileName)
+   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.Form1..ctor() C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\Form1.cs içinde: satır 119Olay zamanı:10.02.2021 13:42:55
+Mail Gönder Exception Hatası:Mesaj hatası:Posta kutusu kullanılamıyor. Sunucu yanıtı şöyleydi: 4.7.1 We do not relay gmail.comstackTrace Hatası:   konum: System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   konum: System.Net.Mail.SmtpClient.Send(MailMessage message)
+   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.LicenseKey.MailGonder(String Kime, String Icerik, String Konu) C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\LicenseKey.cs içinde: satır 85Olay zamanı:10.02.2021 16:03:49
+Mail Gönder Exception Hatası:Mesaj hatası:Posta kutusu kullanılamıyor. Sunucu yanıtı şöyleydi: 4.7.1 We do not relay gmail.comstackTrace Hatası:   konum: System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   konum: System.Net.Mail.SmtpClient.Send(MailMessage message)
+   konum: Janus_IP_Merkezi_Alıcı_Yazılımı.LicenseKey.MailGonder(String Kime, String Icerik, String Konu) C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\LicenseKey.cs içinde: satır 85Olay zamanı:10.02.2021 16:05:16
+_Client Socket1:FalseOlay zamanı:10.02.2021 17:03:41
+_Client Socket2:TrueOlay zamanı:10.02.2021 17:03:41
+_Client Socket1:FalseOlay zamanı:10.02.2021 17:07:53
+_Client Socket2:TrueOlay zamanı:10.02.2021 17:07:54
+_Client Socket1:FalseOlay zamanı:10.02.2021 17:13:56
+_Client Socket2:TrueOlay zamanı:10.02.2021 17:13:56
+_Client Socket1:FalseOlay zamanı:10.02.2021 17:13:58
+_Client Socket2:TrueOlay zamanı:10.02.2021 17:13:58
+_Client Socket1:FalseOlay zamanı:10.02.2021 17:21:03
+_Client Socket2:TrueOlay zamanı:10.02.2021 17:21:03
+_Client Socket1:FalseOlay zamanı:10.02.2021 17:21:05
+_Client Socket2:TrueOlay zamanı:10.02.2021 17:21:05
+_Client Socket1:FalseOlay zamanı:10.02.2021 17:35:56
+_Client Socket2:TrueOlay zamanı:10.02.2021 17:35:56
+_Client Socket1:FalseOlay zamanı:10.02.2021 17:55:56
+_Client Socket2:TrueOlay zamanı:10.02.2021 17:55:56
+_Client Socket1:FalseOlay zamanı:10.02.2021 18:04:06
+_Client Socket2:TrueOlay zamanı:10.02.2021 18:04:06
+_Client Socket1:FalseOlay zamanı:10.02.2021 18:15:56
+_Client Socket2:TrueOlay zamanı:10.02.2021 18:15:56
+_Client Socket1:FalseOlay zamanı:10.02.2021 18:35:57
+_Client Socket2:TrueOlay zamanı:10.02.2021 18:35:57
+_Client Socket1:FalseOlay zamanı:10.02.2021 18:55:57
+_Client Socket2:TrueOlay zamanı:10.02.2021 18:55:57
+_Client Socket1:FalseOlay zamanı:10.02.2021 19:00:31
+_Client Socket2:TrueOlay zamanı:10.02.2021 19:00:31
+_Client Socket1:FalseOlay zamanı:10.02.2021 19:00:32
+_Client Socket2:TrueOlay zamanı:10.02.2021 19:00:32
+_Client Socket1:FalseOlay zamanı:10.02.2021 19:04:06
+_Client Socket2:TrueOlay zamanı:10.02.2021 19:04:06
+_Client Socket1:FalseOlay zamanı:10.02.2021 19:15:57
+_Client Socket2:TrueOlay zamanı:10.02.2021 19:15:57
+_Client Socket1:FalseOlay zamanı:10.02.2021 19:35:57
+_Client Socket2:TrueOlay zamanı:10.02.2021 19:35:57
+_Client Socket1:FalseOlay zamanı:10.02.2021 19:55:57
+_Client Socket2:TrueOlay zamanı:10.02.2021 19:55:57
+_Client Socket1:FalseOlay zamanı:10.02.2021 20:04:06
+_Client Socket2:TrueOlay zamanı:10.02.2021 20:04:06
+_Client Socket1:FalseOlay zamanı:10.02.2021 20:15:57
+_Client Socket2:TrueOlay zamanı:10.02.2021 20:15:57
+_Client Socket1:FalseOlay zamanı:10.02.2021 20:35:58
+_Client Socket2:TrueOlay zamanı:10.02.2021 20:35:58
+_Client Socket1:FalseOlay zamanı:10.02.2021 20:55:58
+_Client Socket2:TrueOlay zamanı:10.02.2021 20:55:58
+_Client Socket1:FalseOlay zamanı:10.02.2021 21:04:06
+_Client Socket2:TrueOlay zamanı:10.02.2021 21:04:06
+_Client Socket1:FalseOlay zamanı:10.02.2021 21:15:58
+_Client Socket2:TrueOlay zamanı:10.02.2021 21:15:58
+_Client Socket1:FalseOlay zamanı:10.02.2021 21:35:58
+_Client Socket2:TrueOlay zamanı:10.02.2021 21:35:58
+_Client Socket1:FalseOlay zamanı:10.02.2021 21:55:58
+_Client Socket2:TrueOlay zamanı:10.02.2021 21:55:58
+_Client Socket1:FalseOlay zamanı:10.02.2021 22:04:07
+_Client Socket2:TrueOlay zamanı:10.02.2021 22:04:07
+_Client Socket1:FalseOlay zamanı:10.02.2021 22:15:59
+_Client Socket2:TrueOlay zamanı:10.02.2021 22:15:59
+_Client Socket1:FalseOlay zamanı:10.02.2021 22:35:59
+_Client Socket2:TrueOlay zamanı:10.02.2021 22:35:59
+_Client Socket1:FalseOlay zamanı:10.02.2021 22:55:59
+_Client Socket2:TrueOlay zamanı:10.02.2021 22:55:59
+_Client Socket1:FalseOlay zamanı:10.02.2021 23:04:07
+_Client Socket2:TrueOlay zamanı:10.02.2021 23:04:07
+_Client Socket1:FalseOlay zamanı:10.02.2021 23:15:59
+_Client Socket2:TrueOlay zamanı:10.02.2021 23:15:59
+_Client Socket1:FalseOlay zamanı:10.02.2021 23:35:59
+_Client Socket2:TrueOlay zamanı:10.02.2021 23:35:59
+_Client Socket1:FalseOlay zamanı:10.02.2021 23:55:59
+_Client Socket2:TrueOlay zamanı:10.02.2021 23:55:59

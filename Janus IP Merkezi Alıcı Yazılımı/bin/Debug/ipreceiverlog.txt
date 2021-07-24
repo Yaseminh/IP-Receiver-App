@@ -1,0 +1,63 @@
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#4321|1401 01 001]_09:25:39,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0002R1L2*Account:4321*ReportingTime:15/01/2021 9:25:39*
+*Data:ppppppppp|#3587|1602 00 000]_13:52:07,01-18-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:3587*ReportingTime:18/01/2021 13:52:07*
+*Data:ppppppppp|#4321|1401 01 001]_09:25:39,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0002R1L2*Account:4321*ReportingTime:15/01/2021 9:25:39*
+*Data:ppppppppp|#4321|1401 01 001]_09:25:39,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0002R1L2*Account:4321*ReportingTime:15/01/2021 9:25:39*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#4321|1401 01 001]_09:25:39,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0002R1L2*Account:4321*ReportingTime:15/01/2021 9:25:39*
+*Data:ppppppppp|#4321|1401 01 001]_09:25:39,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0002R1L2*Account:4321*ReportingTime:15/01/2021 9:25:39*
+*Data:ppppppppp|#4321|1401 01 001]_09:25:39,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0002R1L2*Account:4321*ReportingTime:15/01/2021 9:25:39*
+*Data:ppppppppp|#4321|1401 01 001]_09:25:39,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0002R1L2*Account:4321*ReportingTime:15/01/2021 9:25:39*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#4321|1401 01 001]_09:25:39,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0002R1L2*Account:4321*ReportingTime:15/01/2021 9:25:39*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#4321|1401 01 001]_09:25:39,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0002R1L2*Account:4321*ReportingTime:15/01/2021 9:25:39*
+*Data:ppppppppp|#4321|1401 01 001]_09:25:39,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0002R1L2*Account:4321*ReportingTime:15/01/2021 9:25:39*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#4321|1401 01 001]_09:25:39,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0002R1L2*Account:4321*ReportingTime:15/01/2021 9:25:39*
+*Data:ppppppppp|#4321|1401 01 001]_09:25:39,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0002R1L2*Account:4321*ReportingTime:15/01/2021 9:25:39*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#4321|1401 01 001]_09:25:39,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0002R1L2*Account:4321*ReportingTime:15/01/2021 9:25:39*
+*Data:ppppppppp|#4321|1401 01 001]_09:25:39,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0002R1L2*Account:4321*ReportingTime:15/01/2021 9:25:39*
+*Data:ppppppppp|#4321|1401 01 001]_09:25:39,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0002R1L2*Account:4321*ReportingTime:15/01/2021 9:25:39*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#4321|1401 01 001]_09:25:39,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0002R1L2*Account:4321*ReportingTime:15/01/2021 9:25:39*
+*Data:ppppppppp|#4321|1401 01 001]_09:25:39,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0002R1L2*Account:4321*ReportingTime:15/01/2021 9:25:39*
+*Data:ppppppppp|#4321|1401 01 001]_09:25:39,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0002R1L2*Account:4321*ReportingTime:15/01/2021 9:25:39*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#4321|1401 01 001]_09:25:39,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0002R1L2*Account:4321*ReportingTime:15/01/2021 9:25:39*
+*Data:ppppppppp|#4321|1401 01 001]_09:25:39,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0002R1L2*Account:4321*ReportingTime:15/01/2021 9:25:39*
+*Data:ppppppppp|#1234|1100 00 000]_08:12:00,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0001R1L1*Account:1234*ReportingTime:15/01/2021 8:12:00*
+*Data:ppppppppp|#4321|1401 01 001]_09:25:39,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0002R1L2*Account:4321*ReportingTime:15/01/2021 9:25:39*
+*Data:ppppppppp|#4321|1401 01 001]_09:25:39,01-15-2021*Port:4545*Host:192.168.92.170*ipadresi:192.168.92.170*identifier:0002R1L2*Account:4321*ReportingTime:15/01/2021 9:25:39*
+Location:
+Location:
+Location:
+Location:
+Location:
+Location:
+Location:
+Location:
+Location:
+Location:
+Location:
+Location:

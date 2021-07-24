@@ -1,0 +1,47 @@
+C:\Users\EDS\Desktop\TourtuiesProjeler\KişiSaymaYazilimi\OperatorEkrani\V_01.001\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\bin\Debug\Janus IP Merkezi Alıcı Yazılımı.exe.config
+C:\Users\EDS\Desktop\TourtuiesProjeler\KişiSaymaYazilimi\OperatorEkrani\V_01.001\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus IP Merkezi Alıcı Yazılımı.csprojResolveAssemblyReference.cache
+C:\Users\EDS\Desktop\TourtuiesProjeler\KişiSaymaYazilimi\OperatorEkrani\V_01.001\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus_IP_Merkezi_Alıcı_Yazılımı.Details.resources
+C:\Users\EDS\Desktop\TourtuiesProjeler\KişiSaymaYazilimi\OperatorEkrani\V_01.001\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus_IP_Merkezi_Alıcı_Yazılımı.Events.resources
+C:\Users\EDS\Desktop\TourtuiesProjeler\KişiSaymaYazilimi\OperatorEkrani\V_01.001\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus_IP_Merkezi_Alıcı_Yazılımı.Form1.resources
+C:\Users\EDS\Desktop\TourtuiesProjeler\KişiSaymaYazilimi\OperatorEkrani\V_01.001\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus_IP_Merkezi_Alıcı_Yazılımı.Panel.resources
+C:\Users\EDS\Desktop\TourtuiesProjeler\KişiSaymaYazilimi\OperatorEkrani\V_01.001\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus_IP_Merkezi_Alıcı_Yazılımı.port.resources
+C:\Users\EDS\Desktop\TourtuiesProjeler\KişiSaymaYazilimi\OperatorEkrani\V_01.001\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus_IP_Merkezi_Alıcı_Yazılımı.Properties.Resources.resources
+C:\Users\EDS\Desktop\TourtuiesProjeler\KişiSaymaYazilimi\OperatorEkrani\V_01.001\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus IP Merkezi Alıcı Yazılımı.csproj.GenerateResource.Cache
+C:\Users\EDS\Desktop\TourtuiesProjeler\KişiSaymaYazilimi\OperatorEkrani\V_01.001\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\bin\Debug\Janus IP Merkezi Alıcı Yazılımı.exe
+C:\Users\EDS\Desktop\TourtuiesProjeler\KişiSaymaYazilimi\OperatorEkrani\V_01.001\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\bin\Debug\Janus IP Merkezi Alıcı Yazılımı.pdb
+C:\Users\EDS\Desktop\TourtuiesProjeler\KişiSaymaYazilimi\OperatorEkrani\V_01.001\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\bin\Debug\CircularProgressBar.dll
+C:\Users\EDS\Desktop\TourtuiesProjeler\KişiSaymaYazilimi\OperatorEkrani\V_01.001\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\bin\Debug\WinFormAnimation.dll
+C:\Users\EDS\Desktop\TourtuiesProjeler\KişiSaymaYazilimi\OperatorEkrani\V_01.001\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\bin\Debug\CircularProgressBar.xml
+C:\Users\EDS\Desktop\TourtuiesProjeler\KişiSaymaYazilimi\OperatorEkrani\V_01.001\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus IP Merkezi Alıcı Yazılımı.exe
+C:\Users\EDS\Desktop\TourtuiesProjeler\KişiSaymaYazilimi\OperatorEkrani\V_01.001\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus IP Merkezi Alıcı Yazılımı.pdb
+C:\Users\EDS\Desktop\TourtuiesProjeler\KişiSaymaYazilimi\OperatorEkrani\V_01.001\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\bin\Debug\Janus IP Merkezi Alıcı Yazılımı.exe.manifest
+C:\Users\EDS\Desktop\TourtuiesProjeler\KişiSaymaYazilimi\OperatorEkrani\V_01.001\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\bin\Debug\Janus IP Merkezi Alıcı Yazılımı.application
+C:\Users\EDS\Desktop\TourtuiesProjeler\KişiSaymaYazilimi\OperatorEkrani\V_01.001\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus IP Merkezi Alıcı Yazılımı.TrustInfo.xml
+C:\Users\EDS\Desktop\TourtuiesProjeler\KişiSaymaYazilimi\OperatorEkrani\V_01.001\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus IP Merkezi Alıcı Yazılımı.exe.manifest
+C:\Users\EDS\Desktop\TourtuiesProjeler\KişiSaymaYazilimi\OperatorEkrani\V_01.001\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus IP Merkezi Alıcı Yazılımı.application
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\bin\Debug\Janus IP Merkezi Alıcı Yazılımı.exe.config
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\bin\Debug\Janus IP Merkezi Alıcı Yazılımı.exe.manifest
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\bin\Debug\Janus IP Merkezi Alıcı Yazılımı.application
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\bin\Debug\Janus IP Merkezi Alıcı Yazılımı.exe
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\bin\Debug\Janus IP Merkezi Alıcı Yazılımı.pdb
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\bin\Debug\CircularProgressBar.dll
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\bin\Debug\FoxLearn.License.dll
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\bin\Debug\WinFormAnimation.dll
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\bin\Debug\CircularProgressBar.xml
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus_IP_Merkezi_Alıcı_Yazılımı.Details.resources
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus_IP_Merkezi_Alıcı_Yazılımı.Events.resources
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus_IP_Merkezi_Alıcı_Yazılımı.Form1.resources
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus_IP_Merkezi_Alıcı_Yazılımı.Hakkında.resources
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus_IP_Merkezi_Alıcı_Yazılımı.help.resources
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus_IP_Merkezi_Alıcı_Yazılımı.LicenseKey.resources
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus_IP_Merkezi_Alıcı_Yazılımı.Lisans.resources
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus_IP_Merkezi_Alıcı_Yazılımı.Panel.resources
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus_IP_Merkezi_Alıcı_Yazılımı.port.resources
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus_IP_Merkezi_Alıcı_Yazılımı.Properties.Resources.resources
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus IP Merkezi Alıcı Yazılımı.csproj.GenerateResource.Cache
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus IP Merkezi Alıcı Yazılımı.TrustInfo.xml
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus IP Merkezi Alıcı Yazılımı.exe.manifest
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus IP Merkezi Alıcı Yazılımı.application
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus IP Merkezi Alıcı Yazılımı.exe
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus IP Merkezi Alıcı Yazılımı.pdb
+C:\Users\EDS\Desktop\Janus IP Merkezi Alıcı Yazılımı\Janus IP Merkezi Alıcı Yazılımı\obj\Debug\Janus IP Merkezi Alıcı Yazılımı.csprojResolveAssemblyReference.cache
